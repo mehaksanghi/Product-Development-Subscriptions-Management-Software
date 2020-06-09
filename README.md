@@ -24,4 +24,4 @@ For safety purposes, a new user can sign up only through their smartphones, leve
 
 ## Financial Potential
 
-![Contribution](C:\Users\mehak\Documents\Work\SJSU\Spring 2020\ISE 298\Contribution.png)
+![Contribution](https://github.com/mehaksanghi/Product-Development-Subscriptions-Management-Software/blob/master/Contribution.PNG)
