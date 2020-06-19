@@ -24,5 +24,5 @@ Trial app notifications will help customers cancel the auto-renewal of services 
 For safety purposes, a new user can sign up only through their smartphones, leveraging the fingerprint or face recognition feature. This feature is important in identifying the customer for security purposes as well as verifying the basic contact information like the phone number before signing up a new user. This feature will also be leveraged for first-time sign in to the website as well as future security issues.
 
 ## Financial Potential
-A more detailed financial analysis can be done based on the data availability by segregating the data based on household types as given above. Figure below shows the contribution by types of households in different subscription categories
+A more detailed financial analysis can be done based on the data availability by segregating the data based on household types as given above. Figure below shows the contribution by types of households in different subscription categories <br/ >
 ![Contribution](https://github.com/mehaksanghi/Product-Development-Subscriptions-Management-Software/blob/master/Contribution.PNG)
